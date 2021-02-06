@@ -1,1 +1,3 @@
-# Rubiks_hypothesis
+# The Rubiks cube Hypothesis
+
+Earlier this year my brother claimed, “I could solve a cube starting from any arbitrary combination in a minute on average”. I thought it was a bold statement and I decided to put his claim to test. I gifted him a brand new speed cube and asked him to record his time for the next fifty attempts at solving it. Within three days, he sent me an excel sheet with fifty records of time taken to solve the cube. Based on this data record, I wanted to verify if his claim was actually true. I performed a hypothesis test to do the same. In the article [here](https://medium.com/analytics-vidhya/hypothesis-testing-in-real-life-a-tale-of-sibling-rivalry-and-a-rubiks-cube-54cb1ee544c7?sk=04b5d727d46721b61e13edb3ce9c7ec4), I have also provided a detailed explanantion on various concepts related to hypothesis testing.
